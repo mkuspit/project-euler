@@ -23,3 +23,4 @@ def find_the_sum(number_below, list_of_numbers):
     return sum(my_list)
 
 print(find_the_sum(1000, [3, 5]))
+# Answer: 233168
